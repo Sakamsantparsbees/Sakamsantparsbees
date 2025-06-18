@@ -1,14 +1,9 @@
-<!---
-- 👋 Hi, I’m @Sakamsantparsbees
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
 
-<!---
-Sakamsantparsbees/Sakamsantparsbees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in roblox dev and pixel art
 
-learning roblox script and luv pixel art :D
+
+based in thailand\
+studying at chulalongkorn university\
+
+
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,lua,python,c)](https://skillicons.dev) <image src="https://raw.githubusercontent.com/dominickjohn/aseprite-big-sur-icon/refs/heads/main/AsepriteSurIcon.png" height=50> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/192px-Inkscape_Logo.svg.png" height=50>
